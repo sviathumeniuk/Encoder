@@ -1,0 +1,44 @@
+C:\Users\Sviat\Desktop\pr\sys prog\q\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Sviat\Desktop\pr\sys prog\q\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Sviat\Desktop\pr\sys prog\q\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Sviat\Desktop\pr\sys prog\q\obj\Debug\net8.0-windows\q_MarkupCompile.cache
+C:\Users\Sviat\Desktop\pr\sys prog\q\obj\Debug\net8.0-windows\q.g.resources
+C:\Users\Sviat\Desktop\pr\sys prog\q\obj\Debug\net8.0-windows\q.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sviat\Desktop\pr\sys prog\q\obj\Debug\net8.0-windows\q.AssemblyInfoInputs.cache
+C:\Users\Sviat\Desktop\pr\sys prog\q\obj\Debug\net8.0-windows\q.AssemblyInfo.cs
+C:\Users\Sviat\Desktop\pr\sys prog\q\obj\Debug\net8.0-windows\q.csproj.CoreCompileInputs.cache
+C:\Users\Sviat\Desktop\pr\sys prog\q\bin\Debug\net8.0-windows\q.exe
+C:\Users\Sviat\Desktop\pr\sys prog\q\bin\Debug\net8.0-windows\q.deps.json
+C:\Users\Sviat\Desktop\pr\sys prog\q\bin\Debug\net8.0-windows\q.runtimeconfig.json
+C:\Users\Sviat\Desktop\pr\sys prog\q\bin\Debug\net8.0-windows\q.dll
+C:\Users\Sviat\Desktop\pr\sys prog\q\bin\Debug\net8.0-windows\q.pdb
+C:\Users\Sviat\Desktop\pr\sys prog\q\obj\Debug\net8.0-windows\q.dll
+C:\Users\Sviat\Desktop\pr\sys prog\q\obj\Debug\net8.0-windows\refint\q.dll
+C:\Users\Sviat\Desktop\pr\sys prog\q\obj\Debug\net8.0-windows\q.pdb
+C:\Users\Sviat\Desktop\pr\sys prog\q\obj\Debug\net8.0-windows\q.genruntimeconfig.cache
+C:\Users\Sviat\Desktop\pr\sys prog\q\obj\Debug\net8.0-windows\ref\q.dll
+C:\Users\Sviat\Desktop\pr\sys prog\q\obj\Debug\net8.0-windows\q.csproj.AssemblyReference.cache
+C:\Users\Sviat\Desktop\pr\sys prog\q\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Sviat\Desktop\pr\sys prog\q\obj\Debug\net8.0-windows\q.csproj.Up2Date
+C:\Users\Sviat\Desktop\pr\sys prog\Encryptor WinApp\bin\Debug\net8.0-windows\q.exe
+C:\Users\Sviat\Desktop\pr\sys prog\Encryptor WinApp\bin\Debug\net8.0-windows\q.deps.json
+C:\Users\Sviat\Desktop\pr\sys prog\Encryptor WinApp\bin\Debug\net8.0-windows\q.runtimeconfig.json
+C:\Users\Sviat\Desktop\pr\sys prog\Encryptor WinApp\bin\Debug\net8.0-windows\q.dll
+C:\Users\Sviat\Desktop\pr\sys prog\Encryptor WinApp\bin\Debug\net8.0-windows\q.pdb
+C:\Users\Sviat\Desktop\pr\sys prog\Encryptor WinApp\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Sviat\Desktop\pr\sys prog\Encryptor WinApp\obj\Debug\net8.0-windows\q.csproj.AssemblyReference.cache
+C:\Users\Sviat\Desktop\pr\sys prog\Encryptor WinApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Sviat\Desktop\pr\sys prog\Encryptor WinApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Sviat\Desktop\pr\sys prog\Encryptor WinApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Sviat\Desktop\pr\sys prog\Encryptor WinApp\obj\Debug\net8.0-windows\q_MarkupCompile.cache
+C:\Users\Sviat\Desktop\pr\sys prog\Encryptor WinApp\obj\Debug\net8.0-windows\q.g.resources
+C:\Users\Sviat\Desktop\pr\sys prog\Encryptor WinApp\obj\Debug\net8.0-windows\q.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sviat\Desktop\pr\sys prog\Encryptor WinApp\obj\Debug\net8.0-windows\q.AssemblyInfoInputs.cache
+C:\Users\Sviat\Desktop\pr\sys prog\Encryptor WinApp\obj\Debug\net8.0-windows\q.AssemblyInfo.cs
+C:\Users\Sviat\Desktop\pr\sys prog\Encryptor WinApp\obj\Debug\net8.0-windows\q.csproj.CoreCompileInputs.cache
+C:\Users\Sviat\Desktop\pr\sys prog\Encryptor WinApp\obj\Debug\net8.0-windows\q.csproj.Up2Date
+C:\Users\Sviat\Desktop\pr\sys prog\Encryptor WinApp\obj\Debug\net8.0-windows\q.dll
+C:\Users\Sviat\Desktop\pr\sys prog\Encryptor WinApp\obj\Debug\net8.0-windows\refint\q.dll
+C:\Users\Sviat\Desktop\pr\sys prog\Encryptor WinApp\obj\Debug\net8.0-windows\q.pdb
+C:\Users\Sviat\Desktop\pr\sys prog\Encryptor WinApp\obj\Debug\net8.0-windows\q.genruntimeconfig.cache
+C:\Users\Sviat\Desktop\pr\sys prog\Encryptor WinApp\obj\Debug\net8.0-windows\ref\q.dll
